@@ -1,2 +1,2 @@
 # Twitter-Stock-Market-Analysis
-This data analysis project is aimed at identifying the Twitter trends
+This data analysis project is aimed at identifying stock market trends of Twitter for a period of 10 years. We imported date library to convert our data column to datetime. We aslo imported plotly library for visualisation.We also imported pandas to enable us convert the csv file to a pandas dataframe. Python functions to clean missing data. We successfully identified stock prices over the years and allowed for analysis over various time periods.
